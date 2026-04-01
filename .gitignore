@@ -1,0 +1,107 @@
+# ================================
+#  FRONTEND — Vue + Tailwind
+# ================================
+
+# Dependencias
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+
+# Build
+frontend/dist/
+frontend/dist-ssr/
+
+# Cache y temporales
+frontend/.cache/
+frontend/.parcel-cache/
+frontend/.vite/
+
+# Variables de entorno
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Editores
+frontend/.DS_Store
+frontend/Thumbs.db
+
+
+# ================================
+#  BACKEND — Java + Spring Boot
+# ================================
+
+# Compilados
+backend/target/
+backend/*.class
+backend/*.jar
+backend/*.war
+backend/*.ear
+
+# Maven
+backend/.mvn/timing.properties
+backend/.mvn/wrapper/maven-wrapper.jar
+!backend/.mvn/wrapper/maven-wrapper.properties
+
+# Gradle (por si lo usas)
+backend/.gradle/
+backend/build/
+backend/!gradle/wrapper/gradle-wrapper.jar
+
+# Variables de entorno y config local
+backend/src/main/resources/application-local.properties
+backend/src/main/resources/application-local.yml
+backend/.env
+
+# Logs
+backend/logs/
+backend/*.log
+
+# STS / Eclipse
+backend/.apt_generated
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings/
+backend/.springBeans
+backend/.sts4-cache/
+
+# IntelliJ IDEA
+backend/.idea/
+backend/*.iws
+backend/*.iml
+backend/*.ipr
+backend/out/
+
+# NetBeans
+backend/nbactions.xml
+
+
+# ================================
+#  GLOBAL
+# ================================
+
+# Sistemas operativos
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Variables de entorno raíz
+.env
+.env.local
