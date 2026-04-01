@@ -1,6 +1,6 @@
-# 📚 Libretea
+# 📚 Libretea 🇬🇧
 
-> 🌐 [Versión en español abajo](#-libretea-1)
+> 🌐 [Versión en español abajo](#-libretea-)
 
 ---
 
@@ -34,7 +34,7 @@ A personal collection manager for books and comics. Organize your library, keep 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/DOG-GG/libretea.git
+git clone https://github.com/your-username/libretea.git
 cd libretea
 ```
 
@@ -161,9 +161,9 @@ Distributed under the terms of the license included in this repository.
 ---
 ---
 
-# 📚 Libretea
+# 📚 Libretea 🇪🇸
 
-> 🌐 [English version above](#-libretea)
+> 🌐 [English version above](#-libretea-)
 
 ---
 
@@ -197,7 +197,7 @@ Gestor de colecciones personales de libros y cómics. Organiza tu biblioteca, ll
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/DOG-GG/libretea.git
+git clone https://github.com/tu-usuario/libretea.git
 cd libretea
 ```
 
