@@ -1,6 +1,6 @@
-# 📚 Libretea
+# 📚 Libretea 🇬🇧
 
-> 🌐 [Versión en español abajo](#-libretea-1)
+> 🌐 [Versión en español abajo](#-libretea-)
 
 ---
 
@@ -161,9 +161,9 @@ Distributed under the terms of the license included in this repository.
 ---
 ---
 
-# 📚 Libretea
+# 📚 Libretea 🇪🇸
 
-> 🌐 [English version above](#-libretea)
+> 🌐 [English version above](#-libretea-)
 
 ---
 
