@@ -34,7 +34,7 @@ A personal collection manager for books and comics. Organize your library, keep 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/libretea.git
+git clone https://github.com/DOG-GG/libretea.git
 cd libretea
 ```
 
@@ -197,7 +197,7 @@ Gestor de colecciones personales de libros y cómics. Organiza tu biblioteca, ll
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/libretea.git
+git clone https://github.com/DOG-GG/libretea.git
 cd libretea
 ```
 
